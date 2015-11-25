@@ -2,7 +2,6 @@
 exports.config = {
   framework: 'jasmine2',
   
-  directConnect: true,
   // The address of the running selenium server.
   seleniumAddress: 'http://localhost:4444/wd/hub',
   
